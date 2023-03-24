@@ -1,5 +1,5 @@
 # Models for essay level prediction
-These are materials for the 2nd year term paper "English learners' proficiency level detection with the use of machine learning methods" at School of Linguistics, HSE. [Paper link](https://disk.yandex.com/i/JuX40iOen9k5-w)
+These are materials for the 2nd year term paper "English learners' proficiency level detection with the use of machine learning methods" at School of Linguistics, HSE, 2020. [Paper link](https://disk.yandex.com/i/JuX40iOen9k5-w)
 
 The program features 12 models for predicting the level of proficiency in English texts. The models were trained on REALEC and EfCamDat data with the use of 1-66 features of text complexity.
 The models are trained with the use of CatBoost. Thus, for running the program it is necessary to download the package. The program code contains the line for its installation.
